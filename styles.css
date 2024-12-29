@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16pz;
+    margin: 0 auto;
+    font-family: Arial;
+    text-align: center;
+    background-color: gray;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 15px;
+    background-color: bisque;
+    margin: 20px 30px 20px 30px;
+}
+
+.billion {
+    margin-bottom: 20px;
+}
+
+.time-line h3 {
+    margin-bottom: 35px;
+    margin-left: -15px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.timeline-list {
+    margin-bottom: 15px;
+    ;
+}
+
+.Indian {
+    margin-bottom: 15px;
+    ;
+}
+
+.link {
+    font-weight: bold;
+}
